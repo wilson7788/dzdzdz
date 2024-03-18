@@ -6,5 +6,6 @@
 	"ServiceNetwork": "tcp",
 	"ServiceAddress": ":8000",
 	"PlatformDriveMode":true,
-	"OpenRobot":false
+	"OpenRobot":false,
+	"MainSiteAddr": "52.197.144.146:50331"
 }
