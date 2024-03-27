@@ -1,10 +1,10 @@
 {
 	"LogLevel": "debug",
 	"LogPath": "",
-	"WSAddr": ":7789",
+	"WSAddr": ":7790",
 	"MaxConnNum": 20000,
 	"ServiceNetwork": "tcp",
-	"ServiceAddress": ":8000",
+	"ServiceAddress": ":9000",
 	"PlatformDriveMode":false,
 	"OpenRobot":true,
 	"MainSiteAddr": "52.197.144.146:50331"
